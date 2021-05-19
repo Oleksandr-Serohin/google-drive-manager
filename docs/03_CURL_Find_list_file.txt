@@ -1,0 +1,2 @@
+curl --location --request GET 'https://www.googleapis.com/drive/v3/files' \
+--header 'Authorization: Bearer ya29.a0AfH6SMDCmgJbcLkljo1tALi9BkPg9UEeJYTfYf66-hmZJvsF07RaVY8vE0Veb5rxCRoDi78Jy3MoRH2_G_R0vTFeRGXhnQeWKGG2qj1xBZo8DR2jSYc_x37LR4qJaYQK7mUj7ixcTtWsVgXeJDJYCbc70Wz9gQ'
