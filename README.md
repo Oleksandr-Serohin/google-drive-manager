@@ -6,7 +6,10 @@ Description:
 Remarks:
   We have tight time constraints for this task, so the main priority is to make it as quick as possible 
   sacrificing the quality and code readability, especially for the initial MR.
-  
+
+`Decision`
+
+link video: https://youtu.be/3Nq7dKkyuXw
 
 `Screenshots work app:`
 
